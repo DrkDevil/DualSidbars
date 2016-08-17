@@ -1,2 +1,2 @@
 # DualSidbars
-Pure CSS Dual Sidebar Layout. in Bootstrap
+Pure CSS Dual Sidebar Bootstrap Layout.
